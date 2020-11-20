@@ -199,20 +199,20 @@ pd.set_option('display.max_columns', 10)
 
 # frontdoor database config info
 configf = {
-  'user': 'abayik',
-  'password': 'Password4me!!',
-  'host': '10.100.103.147',
-  'database': 'MLexample',
+  'user': '****',
+  'password': '****',
+  'host': '****',
+  'database': 'DB',
   'raise_on_warnings': True,
   'auth_plugin':'mysql_native_password'
 }
 
 # corteza database config info
 configc = {
-  'user': 'bayika',
-  'password': 'Password4me!!',
-  'host': '10.100.99.77',
-  'database': 'corteza',
+  'user': '****',
+  'password': '****',
+  'host': '****',
+  'database': '***',
   'raise_on_warnings': True,
   'auth_plugin':'mysql_native_password'
 }
